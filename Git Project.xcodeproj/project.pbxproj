@@ -11,6 +11,7 @@
 		25059AAE2971C0C50024CC02 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25059AAD2971C0C50024CC02 /* ContentView.swift */; };
 		25059AB02971C0C50024CC02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25059AAF2971C0C50024CC02 /* Assets.xcassets */; };
 		25059AB32971C0C50024CC02 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25059AB22971C0C50024CC02 /* Preview Assets.xcassets */; };
+		25059ABA2971C2FA0024CC02 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25059AB92971C2FA0024CC02 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		25059AAD2971C0C50024CC02 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		25059AAF2971C0C50024CC02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		25059AB22971C0C50024CC02 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		25059AB92971C2FA0024CC02 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				25059AAB2971C0C50024CC02 /* Git_ProjectApp.swift */,
 				25059AAD2971C0C50024CC02 /* ContentView.swift */,
+				25059AB92971C2FA0024CC02 /* ModalView.swift */,
 				25059AAF2971C0C50024CC02 /* Assets.xcassets */,
 				25059AB12971C0C50024CC02 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25059ABA2971C2FA0024CC02 /* ModalView.swift in Sources */,
 				25059AAE2971C0C50024CC02 /* ContentView.swift in Sources */,
 				25059AAC2971C0C50024CC02 /* Git_ProjectApp.swift in Sources */,
 			);
