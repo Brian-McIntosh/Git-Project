@@ -12,9 +12,9 @@ struct ContentView: View {
     var body: some View {
         // comment
         NavigationView {
-            NavigationLink(destination: ModalView(), label: {
+            NavigationLink(destination: ModalView()) {
                 Text("Go next")
-            })
+            }.foregroundColor(.red)
         .navigationTitle("Xcode and Git")
         }
         
